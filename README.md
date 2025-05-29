@@ -33,5 +33,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunninz&show_icons=true&theme=default)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunninz&layout=compact&langs_count=10&hide=html,css)
+
 <br><br>
 </div>
